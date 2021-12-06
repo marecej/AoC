@@ -1,0 +1,16 @@
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\AoC.exe
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\AoC.deps.json
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\AoC.runtimeconfig.json
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\AoC.runtimeconfig.dev.json
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\AoC.dll
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\ref\AoC.dll
+C:\Users\marec\Desktop\AoC\bin\Debug\net5.0\AoC.pdb
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.csprojAssemblyReference.cache
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.AssemblyInfoInputs.cache
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.AssemblyInfo.cs
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.csproj.CoreCompileInputs.cache
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.dll
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\ref\AoC.dll
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.pdb
+C:\Users\marec\Desktop\AoC\obj\Debug\net5.0\AoC.genruntimeconfig.cache
