@@ -15,7 +15,6 @@ namespace AoC
             foreach (string str in InputArray)
             {
                 positions.Add(Convert.ToInt32(str));
-
             }
 
             var lowestfuel = 9999999999;
