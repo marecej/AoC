@@ -7,7 +7,7 @@ namespace AoC
     {
         public static void solution()
         {
-            string input = System.IO.File.ReadAllText(@"C:\Users\marec\Desktop\AoC\input7.txt");
+            var input = System.IO.File.ReadAllText(@"C:\Users\marec\Desktop\AoC\input7.txt");
             int[] positions = Array.ConvertAll(input.Split(','), int.Parse);
 
             var lowestfuel = int.MaxValue;
