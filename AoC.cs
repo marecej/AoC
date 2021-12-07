@@ -6,7 +6,7 @@ namespace AoC
     {
         static void Main(string[] args)
         {
-            Day6.solution();
+            Day7.solution();
         }
     }
 }

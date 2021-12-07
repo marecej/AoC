@@ -21,6 +21,7 @@ namespace AoC
                 count[fish[i]]++;
             }
 
+
             for (int days = 1; days <= 256; days++)
             {
                 Console.WriteLine("after Day " + days);
