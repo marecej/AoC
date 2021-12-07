@@ -9,13 +9,7 @@ namespace AoC
         public static void solution()
         {
             string input = System.IO.File.ReadAllText(@"C:\Users\marec\Desktop\AoC\input7.txt");
-            var InputArray = input.Split(",");
-
-            List<int> positions = new List<int>();
-            foreach (string str in InputArray)
-            {
-                positions.Add(Convert.ToInt32(str));
-            }
+            int[] positions = Array.ConvertAll(input.Split(','), int.Parse);
 
             var lowestfuel = 9999999999;
             var distance = 0;
