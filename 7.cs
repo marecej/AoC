@@ -11,8 +11,9 @@ namespace AoC
             string input = System.IO.File.ReadAllText(@"C:\Users\marec\Desktop\AoC\input7.txt");
             int[] positions = Array.ConvertAll(input.Split(','), int.Parse);
 
-            var lowestfuel = 9999999999;
+            var lowestfuel = int.MaxValue;
             var distance = 0;
+
             for (var i = positions.Min(); i < positions.Max(); i++)
             {
                 var fuel = 0;
