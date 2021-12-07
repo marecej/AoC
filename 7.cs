@@ -13,12 +13,12 @@ namespace AoC
             var lowestfuel = int.MaxValue;
             var distance = 0;
 
-            for (var i = positions.Min(); i < positions.Max(); i++)
+            for (var position = positions.Min(); position < positions.Max(); position++)
             {
                 var fuel = 0;
-                foreach (var position in positions)
+                foreach (var crab in positions)
                 {
-                    distance = (Math.Abs(position - i));
+                    distance = (Math.Abs(crab - position));
                     fuel += (distance * (distance + 1)) / 2;
                 }
                 if (fuel < lowestfuel) { lowestfuel = fuel; }
